@@ -46,6 +46,7 @@ All notable changes to this project.
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
+- **[Docs]** docs: auto-update [skip-docs] ($hash)
 
 ## 2026-06
 - **[Changed]** [Moe autonomous] openrouter 2026-06-29 08:08 ($hash)
@@ -56,5 +57,4 @@ All notable changes to this project.
 - **[Changed]** Enterprise: Automated Project Sync ($hash)
 - **[Changed]** Enterprise: Automated Project Sync ($hash)
 - **[Changed]** Enterprise: Automated Project Sync ($hash)
-- **[Added]** feat: complete pedagogical progression (txt to website) ($hash)
 
