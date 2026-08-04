@@ -52,7 +52,5 @@ All notable changes to this project.
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
-
-## 2026-06
-- **[Changed]** [Moe autonomous] openrouter 2026-06-29 08:08 ($hash)
+- **[Docs]** docs: auto-update [skip-docs] ($hash)
 
