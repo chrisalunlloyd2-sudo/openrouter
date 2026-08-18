@@ -1,4 +1,5 @@
 def main():
+    """Main (function)."""
     print("Hello, World!")
     print("This is the third step: transitioning to an executable Python script.")
 
